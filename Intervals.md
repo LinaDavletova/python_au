@@ -27,7 +27,7 @@ def eraseOverlapIntervals(self, intervals):
     return kol
 ```
 
-##Merge Intervals
+## Merge Intervals
 
 https://leetcode.com/problems/merge-intervals/
 
@@ -54,7 +54,7 @@ def merge(self, intervals):
     return outint
 ```
 
-##Insert Interval
+## Insert Interval
 
 https://leetcode.com/problems/insert-interval/
 
